@@ -1,0 +1,6 @@
+version=1
+id=3682452170
+title=LaniZ PVP Spawnpoints
+description=Spawnpointit Laninurkkauksen PVP-peleille!
+tags=Build 42;Map
+visibility=friendsOnly
